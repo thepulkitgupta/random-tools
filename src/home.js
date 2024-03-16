@@ -11,7 +11,7 @@ function Home() {
                         <Link to="/Utilities">Fun Ahead</Link>
                     </div>
                     <div className="button3d">
-                        <a href="https://www.google.com" target="_blank"> Anime Search </a>
+                        <a href="https://animesearch.azurewebsites.net" target="_blank" rel="noreferrer"> Anime Search </a>
                     </div>
                 </div>
              </div>
