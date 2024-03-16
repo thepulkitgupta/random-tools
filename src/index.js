@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import RandomTools from './RandomTools';
-
+import MyRouter from './myrouter';
 
 function App() {
     return (
-       <RandomTools/>
+        <MyRouter />
     );
 }
 

@@ -7,17 +7,16 @@ import Tables from './Tables';
 import Forms from './Forms';
 import Temperature from './Temperature';
 
-function RandomTools(props){
-    return  <div>
-
-    <Temperature/>
-    <Forms/>
-    <Tables/>
-     <Colors/>
-     <Counter/>
-     <Toggle/>
-     <Clock/> 
-</div>
+function Utilities() {
+    return <div>
+        <Temperature />
+        <Forms />
+        <Tables />
+        <Colors />
+        <Counter />
+        <Toggle />
+        <Clock />
+    </div>
 };
 
-export default RandomTools;
+export default Utilities;
